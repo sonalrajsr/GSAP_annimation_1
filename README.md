@@ -1,4 +1,3 @@
-# web_annimation_1
 
 # Project Title
 Web animation project 1
