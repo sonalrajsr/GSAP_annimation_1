@@ -79,7 +79,7 @@ video {
   width: 600px;
   margin: 0 auto;
   position: relative;
-  top: 150px;
+  top: 100px;
   color: #fff;
   z-index: 150;
 }
@@ -94,9 +94,9 @@ video {
 }
 .home-content .middle-line {
   height: 0px;
-  width: 2px;
+  width: 5px;
   background: #fff;
-  margin: 40px auto;
+  margin: 20px auto;
   position: relative;
 }
 
