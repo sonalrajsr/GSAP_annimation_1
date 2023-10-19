@@ -14,7 +14,7 @@ gsap_timeline
 .to(verticalLine, {height: 200}, '-=0.3')
 .from(grapesLogo, {autoAlpha :0, y: -50,}, "-=.2")
 .from(btn_discover, {autoAlpha :0, y: -50}, "-=.2")
-.from(btn_discover, {scale:1.5, repeat: -1, duration : 1})
+.from(btn_discover, {scale:1.5, repeat: -1, duration : 2})
 
 .from(nav_buttons, {autoAlpha : 0, y:-20, duration: 1, stagger: 0.1})
 .from(nav_img, {autoAlpha : 0, y: -20, stagger : 0.1})
